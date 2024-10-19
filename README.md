@@ -6,6 +6,6 @@ Includes:
 - Win screen</li>
 - Complex styling
 
-##Play the game!
+## Play the game!
 
 Play the game [HERE](https://nathangpark.github.io/tictactoe-js/)
